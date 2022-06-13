@@ -4,7 +4,7 @@ from kivy.uix.screenmanager import Screen,ScreenManager,FadeTransition
 from kivymd.uix.button import MDRaisedButton
 from kivymd.uix.dialog import MDDialog
 from kivy.metrics import dp
-#builder string
+#builder str
 helper_string="""
 ScreenManager:
 	id:sm_manager
