@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = Svm 
+title = Avg Calculator
 
 # (str) Package name
-package.name = svmapplication
+package.name = AverageCalculator
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.kivymd
